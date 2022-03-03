@@ -5,6 +5,4 @@
   "client_id": "",
   "java": true,
   "game_args": [],
-  "dataDirectory": ".minecraft",
-  "ignored": ["config.json"]
 }
